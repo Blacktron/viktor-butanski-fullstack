@@ -1,6 +1,6 @@
 import express from 'express';
 
-import * as constants from "/config/constants.js";
+import * as constants from "./config/constants.js";
 import notesRouter from './routes/notes.js'
 
 const app = express();
