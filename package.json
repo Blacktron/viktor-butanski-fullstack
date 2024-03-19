@@ -1,0 +1,15 @@
+{
+  "name": "viktor-butanski-fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viktor Butanski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
